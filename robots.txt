@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://localbiznez.github.io/quor-advogados-porto-77982/sitemap.xml
